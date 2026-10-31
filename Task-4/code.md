@@ -84,7 +84,6 @@ flowchart TD
 
     W --> X([STOP])
 
-
 ```
 ## 5. Python Source Code
 
@@ -127,9 +126,6 @@ Net Salary        : Rs. 32500.0
 
 ## 8. Mermaid Flowchart Code
 
-Use this code in your GitHub README or Mermaid Live Editor.
-
-Invalid or unsupported diagram
 
 ## 9. Expected Result
 
