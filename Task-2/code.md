@@ -23,7 +23,7 @@ Develop a Python program to calculate household electricity bills using progress
 13. Stop.
 
 ## 3. IPO (Input, Process, Output)
-```mermaid 
+```mermaid  
  
 flowchart TD
     A([Start]) --> B[/Enter number of months/]
