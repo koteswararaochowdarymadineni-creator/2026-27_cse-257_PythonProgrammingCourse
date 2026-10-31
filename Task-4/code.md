@@ -130,5 +130,3 @@ Net Salary        : Rs. 32500.0
 ## 9. Expected Result
 
 The Python program successfully calculates the employee's gross salary, applies progressive deductions, and generates a formatted salary statement containing the employee details, total earnings, deductions, and final net salary.
-
-Important: The deduction slabs above are assumed rules for this programming exercise, not actual statutory Indian payroll or income-tax rates.
