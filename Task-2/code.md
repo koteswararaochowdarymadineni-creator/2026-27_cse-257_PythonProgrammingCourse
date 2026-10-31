@@ -1,3 +1,7 @@
+Bro 👍 Here is the complete Progressive Electricity Billing Python Project with problem statement, algorithm, IPO, flowchart, Python source code, sample input/output, and Mermaid flowchart code.
+
+# 2. Progressive Electricity Billing System
+
 ## 1. Problem Statement
 
 Develop a Python program to calculate household electricity bills using progressive consumption slabs. The program should calculate energy charges, fixed charges, surcharges, and rebates. It should compare electricity bills across multiple months and identify unusual increases in consumption or billing amounts.
@@ -23,8 +27,19 @@ Develop a Python program to calculate household electricity bills using progress
 13. Stop.
 
 ## 3. IPO (Input, Process, Output)
-```mermaid  
- 
+
+| Input            | Process                | Output                 |
+| ---------------- | ---------------------- | ---------------------- |
+| Number of months | Calculate slab charges | Energy charges         |
+| Month name       | Add fixed charges      | Fixed charges          |
+| Units consumed   | Calculate surcharge    | Surcharge              |
+|                  | Apply rebate           | Rebate                 |
+|                  | Compare monthly bills  | Final bill             |
+|                  | Identify increases     | Unusual increase alert |
+
+## 4. Flowchart
+```mermaid
+
 flowchart TD
     A([Start]) --> B[/Enter number of months/]
     B --> C[/Enter month and units/]
@@ -55,12 +70,8 @@ flowchart TD
     U --> W([End])
     V --> W
 
-```mermaid
-## 4. Flowchart
 
-[Electricity Billing Flowchart -Identification and solving of simple real life or scientific or technical problems, and developing flow charts for the same. | by Sakthi | Medium](https://images.openai.com/static-rsc-4/eG0-aVlgyYpxpQ4D4GptNZtDU-g6ikIWSwI63XiBer9cv8Nn7fthudj5MwXXiLxOjK7-iLIh4sge4dNjxAoXP4adxWJl6GIQ-FbaMbRJJBYK0OK8DRfiD04MfUYOfEczB-mHuICAj4fmYgIx4leUEjQXgRKREE9UXGFCibk7a-w?purpose=inline)
-
-[medium.com](https://medium.com/%40techinfocse/identification-and-solving-of-simple-real-life-or-scientific-or-technical-problems-and-developing-6087eabf495f?utm_source=chatgpt.com)
+```
 
 ## 5. Python Source Code
 
@@ -123,12 +134,12 @@ Billing Process Completed.
 ```
 
 ## 8. Mermaid Flowchart Code
-```mermaid
 
-```mermaid
 
 ## 9. Expected Result
 
 The Python program successfully calculates electricity bills using progressive slabs, fixed charges, surcharges, and rebates. It compares monthly bills and identifies unusual increases greater than 30%.
 
-Bro, important: These slab rates and charges are assumed values for your Python academic project, not official electricity tariff rates. You can use this as your project demonstration.
+
+
+
