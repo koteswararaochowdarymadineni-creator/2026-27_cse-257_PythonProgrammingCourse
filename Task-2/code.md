@@ -1,4 +1,4 @@
-Bro 👍 Here is the complete Progressive Electricity Billing Python Project with problem statement, algorithm, IPO, flowchart, Python source code, sample input/output, and Mermaid flowchart code.
+
 
 # 2. Progressive Electricity Billing System
 
